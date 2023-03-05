@@ -1,1 +1,1 @@
-# company_income_api
+# Company Income API
